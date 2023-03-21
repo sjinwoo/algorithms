@@ -1,1 +1,1 @@
-# algorithms
+# Algorithms Lectures & Studies

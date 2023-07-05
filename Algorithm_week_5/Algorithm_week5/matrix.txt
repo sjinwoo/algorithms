@@ -1,0 +1,6 @@
+SAL   5 2
+MAN   2 3
+EAT   3 4
+WET   4 6
+ACT   6 7
+EAR   7 8
